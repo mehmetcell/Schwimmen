@@ -1,1 +1,1 @@
-puts EBOB(264,36)
+def ebob(18,12)
